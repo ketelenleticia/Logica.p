@@ -21,14 +21,14 @@
 #print("fim da repetição!")
 
 # QUESTÃO 5 
-c=0
-while True:
-    s=int(input("digite uma senha de 4 digitos:"))
-    if s==1234:
-        print("senha correta,seja bem-vindo ao programa")
-        break
-    else:
-          print("senha incorreta,tente novamente")
+#c=0
+#while True:
+#    s=int(input("digite uma senha de 4 digitos:"))
+#    if s==1234:
+#        print("senha correta,seja bem-vindo ao programa")
+#        break
+#    else:
+#          print("senha incorreta,tente novamente")
     
 
 
